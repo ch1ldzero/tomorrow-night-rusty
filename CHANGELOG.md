@@ -38,3 +38,8 @@
 - Add article in description in package.json: "A dark theme..."
 - Add "docs" keyword in package.json
 
+## 1.5.0
+- Rewrite README.md
+- Improve keywords in package.json
+- Improve syntax highlighting across languages
+- Update screenshots after improving syntax highlighting
