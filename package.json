@@ -2,7 +2,7 @@
   "name": "tomorrow-night-rusty",
   "displayName": "Tomorrow Night Rusty",
   "publisher": "n3tw4lk3r",
-  "description": "A dark VS Code theme inspired by the color palette used in Rust documentation",
+  "description": "A dark theme inspired by the color palette used in Rust documentation",
   "version": "1.5.0",
   "icon": "assets/images/icon.png",
   "engines": {
