@@ -43,3 +43,6 @@
 - Improve keywords in package.json
 - Improve syntax highlighting across languages
 - Update screenshots after improving syntax highlighting
+
+## 1.5.1
+- Update theme description in package.json
