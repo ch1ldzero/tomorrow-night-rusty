@@ -20,7 +20,7 @@
 ## 1.3.1
 - Add accurate extension description in README.md
 - Add accurate extension description in package.json
-- Add Github issue tracker link in VSCode UI
+- Add Github issue tracker link in VS Code UI
 
 ## 1.3.2
 - Replace theme screenshot: shorter code example, comments in English
