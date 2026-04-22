@@ -52,7 +52,17 @@
       "struct": "#DE935F",
       "interface": "#DE935F",
       "enum": "#DE935F",
-      "typeParameter": "#DE935F"
+      "typeParameter": "#F0C674",
+      "function": "#85B7B1",
+      "method": "#85B7B1",
+      "variable": "#C5C8C6",
+      "parameter": "#81A2BE",
+      "property": "#DE935F",
+      "enumMember": "#DE935F",
+      "keyword": "#B294BB",
+      "string": "#B5BD68",
+      "number": "#DE935F",
+      "boolean": "#DE935F"
     }
   }
 }
