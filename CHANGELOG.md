@@ -46,3 +46,6 @@
 
 ## 1.5.1
 - Update theme description in package.json
+
+## 2.0.0
+- Complete recalibration of theme colors: exact match of rusty.nvim, better UI consistency. Background colors were intentionally made darker to compensate for VS Code's internal brightening.
