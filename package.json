@@ -13,12 +13,23 @@
   ],
   "keywords": [
     "theme",
-    "dark",
+    "dark theme",
+    "vscode theme",
+    "syntax highlighting",
+    "developer theme",
     "rust",
-    "docs",
-    "orange",
-    "purple",
-    "green"
+    "rust theme",
+    "rusty",
+    "rusty nvim",
+    "neovim theme",
+    "tomorrow night",
+    "minimal",
+    "programming",
+    "code theme",
+    "editor theme",
+    "c++",
+    "javascript",
+    "typescript"
   ],
   "repository": {
     "type": "git",
