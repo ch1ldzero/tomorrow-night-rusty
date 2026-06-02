@@ -49,7 +49,7 @@ Designed for readability and consistent highlighting across languages, with a fo
 
 ### Manual installation
 Download the `.vsix` file from the latest release here:
-https://github.com/n3tw4lk3r/Tomorrow-Night-Rusty/releases
+https://github.com/n3tw4lk3r/tomorrow-night-rusty/releases
 
 Then:
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
@@ -72,6 +72,6 @@ This theme is an independent project and is not affiliated with the Rust project
 
 ## Feedback
 Issues and suggestions:
-https://github.com/n3tw4lk3r/Tomorrow-Night-Rusty/issues
+https://github.com/n3tw4lk3r/tomorrow-night-rusty/issues
 
 If you find this theme useful, consider leaving a rating in the VS Code Marketplace.

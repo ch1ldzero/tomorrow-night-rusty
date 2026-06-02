@@ -33,10 +33,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/n3tw4lk3r/Tomorrow-Night-Rusty"
+    "url": "https://github.com/n3tw4lk3r/tomorrow-night-rusty"
   },
   "bugs": {
-    "url": "https://github.com/n3tw4lk3r/Tomorrow-Night-Rusty/issues"
+    "url": "https://github.com/n3tw4lk3r/tomorrow-night-rusty/issues"
   },
   "contributes": {
     "themes": [
