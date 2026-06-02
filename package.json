@@ -13,23 +13,44 @@
   ],
   "keywords": [
     "theme",
+    "dark",
     "dark theme",
-    "vscode theme",
+    "vscode",
+    "visual studio code",
     "syntax highlighting",
-    "developer theme",
+    "semantic highlighting",
+
     "rust",
     "rust theme",
-    "rusty",
-    "rusty nvim",
-    "neovim theme",
+    "rustdoc",
+    "rust documentation",
+
+    "tomorrow",
     "tomorrow night",
+    "tomorrow theme",
+
+    "rusty.nvim",
+    "neovim",
+    "neovim theme",
+
     "minimal",
-    "programming",
-    "code theme",
-    "editor theme",
+    "minimalist",
+    "clean",
+    "developer",
+
+    "c",
+    "cpp",
     "c++",
+    "csharp",
+    "c#",
+    "go",
     "javascript",
-    "typescript"
+    "typescript",
+    "python",
+    "json",
+
+    "coding",
+    "programming"
   ],
   "repository": {
     "type": "git",
