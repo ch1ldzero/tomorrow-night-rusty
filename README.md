@@ -1,8 +1,8 @@
 # Tomorrow Night Rusty 
 
-A dark VS Code theme inspired by the color palette used in [Rust documentation](https://doc.rust-lang.org/book/) and [rusty.nvim](https://github.com/armannikoyan/rusty) theme, which itself is inspired by Tomorrow Night theme.
+A dark VS Code theme based on the color palette used in [Rust documentation](https://doc.rust-lang.org/book/) and [rusty.nvim](https://github.com/armannikoyan/rusty) theme. Rusty.nvim is itself inspired by the original Tomorrow Night theme.
 
-Designed for readability and consistent highlighting across languages, with a focus on clean contrast and balanced colors.
+Tomorrow Night Rusty is an unofficial VS Code port with support for semantic highlighting and a wide range of programming languages.
 
 ## Preview
 
@@ -33,12 +33,6 @@ Designed for readability and consistent highlighting across languages, with a fo
 ### TypeScript
 ![Theme Screenshot](assets/images/preview-typescript.png)
 
-
-## Features
-- Balanced contrast for long coding sessions
-- Consistent syntax highlighting across languages
-- Tuned for semantic highlighting
-
 ## Installation
 
 ### Install from VSCode
@@ -68,10 +62,9 @@ Add this line to your settings.json:
 ```
 
 ## Notes
-This theme is an independent project and is not affiliated with the Rust project.
+This project is independent and is not affiliated with the Rust project, the Rust documentation team, or the rusty.nvim project.
 
 ## Feedback
-Issues and suggestions:
-https://github.com/n3tw4lk3r/tomorrow-night-rusty/issues
+Bug reports, suggestions, and pull requests are welcome:
 
-If you find this theme useful, consider leaving a rating in the VS Code Marketplace.
+https://github.com/n3tw4lk3r/tomorrow-night-rusty/issues
