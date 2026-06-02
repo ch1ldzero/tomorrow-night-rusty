@@ -3,7 +3,7 @@
   "displayName": "Tomorrow Night Rusty",
   "publisher": "n3tw4lk3r",
   "description": "A dark theme inspired by the color palette used in Rust documentation",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "icon": "assets/images/icon.png",
   "engines": {
     "vscode": "^1.70.0"
@@ -19,25 +19,20 @@
     "visual studio code",
     "syntax highlighting",
     "semantic highlighting",
-
     "rust",
     "rust theme",
     "rustdoc",
     "rust documentation",
-
     "tomorrow",
     "tomorrow night",
     "tomorrow theme",
-
     "rusty.nvim",
     "neovim",
     "neovim theme",
-
     "minimal",
     "minimalist",
     "clean",
     "developer",
-
     "c",
     "cpp",
     "c++",
@@ -48,7 +43,6 @@
     "typescript",
     "python",
     "json",
-
     "coding",
     "programming"
   ],
