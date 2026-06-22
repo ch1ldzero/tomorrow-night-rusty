@@ -61,3 +61,7 @@
 - Hide screenshots under spoiler
 - Fix git diff display in gutter
 
+# 2.0.3
+- Add custom badge with statistics to README.md
+- Improve links in README.md
+
