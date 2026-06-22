@@ -6,36 +6,42 @@ Tomorrow Night Rusty is an unofficial VS Code port with support for semantic hig
 
 ## Preview
 
-### Rust
-![Theme Screenshot](assets/images/preview-rust.png)
+![Theme Screenshot Rust](assets/images/preview-rust.png)
+
+<details>
+<summary>Additional screenshots (C, C++, C#, Go, JS, JSON, Python, TS)</summary>
 
 ### C
-![Theme Screenshot](assets/images/preview-c.png)
+![Theme Screenshot C](assets/images/preview-c.png)
 
 ### C++
-![Theme Screenshot](assets/images/preview-cpp.png)
+![Theme Screenshot C++](assets/images/preview-cpp.png)
 
 ### C#
-![Theme Screenshot](assets/images/preview-csharp.png)
+![Theme Screenshot C#](assets/images/preview-csharp.png)
 
 ### Go
-![Theme Screenshot](assets/images/preview-go.png)
+![Theme Screenshot Go](assets/images/preview-go.png)
 
 ### JavaScript
-![Theme Screenshot](assets/images/preview-javascript.png)
+![Theme Screenshot JS](assets/images/preview-javascript.png)
 
 ### JSON
-![Theme Screenshot](assets/images/preview-json.png)
+![Theme Screenshot JSON](assets/images/preview-json.png)
 
 ### Python
-![Theme Screenshot](assets/images/preview-python.png)
+![Theme Screenshot Python](assets/images/preview-python.png)
 
 ### TypeScript
-![Theme Screenshot](assets/images/preview-typescript.png)
+![Theme Screenshot TS](assets/images/preview-typescript.png)
+
+</details>
 
 ## Installation
+<details>
+<summary>Instructions</summary>
 
-### Install from VSCode
+### Install from VS Code
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
 2. Search for `Tomorrow Night Rusty`, choose "Tomorrow Night Rusty"
 3. Click **Install** to install it
@@ -49,6 +55,8 @@ Then:
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
 2. Click `...` → `Install from VSIX...`
 3. Select your downloaded .vsix file
+
+</details>
 
 ## Recommended settings
 For best results, enable semantic highlighting.
@@ -68,3 +76,4 @@ This project is independent and is not affiliated with the Rust project, the Rus
 Bug reports, suggestions, and pull requests are welcome:
 
 https://github.com/n3tw4lk3r/tomorrow-night-rusty/issues
+
