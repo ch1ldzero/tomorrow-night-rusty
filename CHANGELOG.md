@@ -55,3 +55,9 @@
 - Change repository name to tomorrow-night-rusty
 - Improve keywords in package.json
 - Rewrite README.md
+
+# 2.0.2
+- Change order of sections in README.md 
+- Hide screenshouts under spoiler
+- Fix git diff display in gutter
+
