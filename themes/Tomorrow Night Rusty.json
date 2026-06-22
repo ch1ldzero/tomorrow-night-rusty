@@ -40,9 +40,13 @@
     "editorInfo.foreground": "#81A2BE",
 
     "editorGutter.background": "#17191b",
-    "editorGutter.modifiedBackground": "#17191b",
-    "editorGutter.addedBackground": "#17191b",
-    "editorGutter.deletedBackground": "#17191b",
+    "editorGutter.addedBackground": "#B5BD68",
+    "editorGutter.modifiedBackground": "#F0C674",
+    "editorGutter.deletedBackground": "#CC6666",
+
+    "editorOverviewRuler.addedForeground": "#B5BD68",
+    "editorOverviewRuler.modifiedForeground": "#F0C674",
+    "editorOverviewRuler.deletedForeground": "#CC6666",
 
     "sideBar.background": "#111214",
     "sideBar.foreground": "#C5C8C6",
