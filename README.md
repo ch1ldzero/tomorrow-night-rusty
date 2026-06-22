@@ -60,7 +60,7 @@ Add this line to your `settings.json`:
 
 ### Manual installation
 Download the `.vsix` file from the latest release here:
-https://github.com/n3tw4lk3r/tomorrow-night-rusty/releases
+[latest release](https://github.com/n3tw4lk3r/tomorrow-night-rusty/releases)
 
 Then:
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
@@ -75,5 +75,5 @@ This project is independent and is not affiliated with the Rust project, the Rus
 ## Feedback
 Bug reports, suggestions, and pull requests are welcome:
 
-https://github.com/n3tw4lk3r/tomorrow-night-rusty/issues
+[issue tracker](https://github.com/n3tw4lk3r/tomorrow-night-rusty/issues)
 
