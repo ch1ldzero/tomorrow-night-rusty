@@ -1,5 +1,7 @@
 # Tomorrow Night Rusty 
 
+![Statistics Badge](https://tomorrow-night-rusty-badge.vercel.app/)
+
 A dark VS Code theme based on the color palette used in [Rust documentation](https://doc.rust-lang.org/book/) and [rusty.nvim](https://github.com/armannikoyan/rusty) theme. Rusty.nvim is itself inspired by the original Tomorrow Night theme.
 
 Tomorrow Night Rusty is an unofficial VS Code port with support for semantic highlighting and a wide range of programming languages.
@@ -59,8 +61,7 @@ Add this line to your `settings.json`:
 4. Navigate to File > Preferences > Themes > Color Theme > **Tomorrow Night Rusty**
 
 ### Manual installation
-Download the `.vsix` file from the latest release here:
-[latest release](https://github.com/n3tw4lk3r/tomorrow-night-rusty/releases)
+Download the `.vsix` file from the latest release [here](https://github.com/n3tw4lk3r/tomorrow-night-rusty/releases)
 
 Then:
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
@@ -73,7 +74,5 @@ Then:
 This project is independent and is not affiliated with the Rust project, the Rust documentation team, or the rusty.nvim project.
 
 ## Feedback
-Bug reports, suggestions, and pull requests are welcome:
-
-[issue tracker](https://github.com/n3tw4lk3r/tomorrow-night-rusty/issues)
+Bug reports, suggestions, and pull requests are welcome: [issue tracker](https://github.com/n3tw4lk3r/tomorrow-night-rusty/issues)
 
