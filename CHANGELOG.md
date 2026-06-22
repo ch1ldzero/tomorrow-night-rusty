@@ -58,6 +58,6 @@
 
 # 2.0.2
 - Change order of sections in README.md 
-- Hide screenshouts under spoiler
+- Hide screenshots under spoiler
 - Fix git diff display in gutter
 
