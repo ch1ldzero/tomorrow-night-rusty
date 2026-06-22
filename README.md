@@ -4,6 +4,17 @@ A dark VS Code theme based on the color palette used in [Rust documentation](htt
 
 Tomorrow Night Rusty is an unofficial VS Code port with support for semantic highlighting and a wide range of programming languages.
 
+## Recommended settings
+For best results, enable semantic highlighting.
+
+Add this line to your `settings.json`:
+
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> > Preferences: Open User Settings (JSON)
+
+```json
+"editor.semanticHighlighting.enabled": true,
+```
+
 ## Preview
 
 ![Theme Screenshot Rust](assets/images/preview-rust.png)
@@ -57,17 +68,6 @@ Then:
 3. Select your downloaded .vsix file
 
 </details>
-
-## Recommended settings
-For best results, enable semantic highlighting.
-
-Add this line to your settings.json:
-
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> > Preferences: Open User Settings (JSON)
-
-```json
-"editor.semanticHighlighting.enabled": true,
-```
 
 ## Notes
 This project is independent and is not affiliated with the Rust project, the Rust documentation team, or the rusty.nvim project.
