@@ -2,16 +2,15 @@
 
 ![Statistics Badge](https://tomorrow-night-rusty-badge.vercel.app/)
 
-A dark VS Code theme based on the color palette used in [Rust documentation](https://doc.rust-lang.org/book/) and [rusty.nvim](https://github.com/armannikoyan/rusty) theme. Rusty.nvim is itself inspired by the original Tomorrow Night theme.
+A dark VS Code theme inspired by the [Rust documentation](https://doc.rust-lang.org/book/) color palette and [rusty.nvim](https://github.com/armannikoyan/rusty).
 
 Tomorrow Night Rusty is an unofficial VS Code port with support for semantic highlighting and a wide range of programming languages.
 
 ## Recommended settings
-For best results, enable semantic highlighting.
+
+Enable semantic highlighting for best experience:
 
 Add this line to your `settings.json`:
-
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> > Preferences: Open User Settings (JSON)
 
 ```json
 "editor.semanticHighlighting.enabled": true,
@@ -22,57 +21,69 @@ Add this line to your `settings.json`:
 ![Theme Screenshot Rust](assets/images/preview-rust.png)
 
 <details>
-<summary>Additional screenshots (C, C++, C#, Go, JS, JSON, Python, TS)</summary>
+<summary>C, C++, Go, Python, TypeScript examples</summary>
 
 ### C
+
 ![Theme Screenshot C](assets/images/preview-c.png)
 
 ### C++
+
 ![Theme Screenshot C++](assets/images/preview-cpp.png)
 
-### C#
-![Theme Screenshot C#](assets/images/preview-csharp.png)
-
 ### Go
+
 ![Theme Screenshot Go](assets/images/preview-go.png)
 
-### JavaScript
-![Theme Screenshot JS](assets/images/preview-javascript.png)
-
-### JSON
-![Theme Screenshot JSON](assets/images/preview-json.png)
-
 ### Python
+
 ![Theme Screenshot Python](assets/images/preview-python.png)
 
 ### TypeScript
+
 ![Theme Screenshot TS](assets/images/preview-typescript.png)
 
 </details>
 
 ## Installation
+
 <details>
 <summary>Instructions</summary>
 
-### Install from VS Code
-1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
-2. Search for `Tomorrow Night Rusty`, choose "Tomorrow Night Rusty"
-3. Click **Install** to install it
-4. Navigate to File > Preferences > Themes > Color Theme > **Tomorrow Night Rusty**
+### VS Code Marketplace
+
+Search: **Tomorrow Night Rusty**
 
 ### Manual installation
-Download the `.vsix` file from the latest release [here](https://github.com/n3tw4lk3r/tomorrow-night-rusty/releases)
+
+Download `.vsix` file from the latest release [here](https://github.com/n3tw4lk3r/tomorrow-night-rusty/releases)
 
 Then:
-1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
+1. Open the **Extensions** sidebar in VS Code: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>X</kbd>
 2. Click `...` → `Install from VSIX...`
 3. Select your downloaded .vsix file
+
+### Build from source
+
+Dependencies: Node.js, VSCE
+
+```bash
+git clone https://github.com/ch1ldzero/tomorrow-night-rusty
+cd tomorrow-night-rusty
+npm install
+npm run build
+vsce package
+```
+
+`.vsix` file will be generated.
 
 </details>
 
 ## Notes
-This project is independent and is not affiliated with the Rust project, the Rust documentation team, or the rusty.nvim project.
+
+This project is not affiliated with the Rust project or the rusty.nvim theme.
 
 ## Feedback
+
 Bug reports, suggestions, and pull requests are welcome: [issue tracker](https://github.com/n3tw4lk3r/tomorrow-night-rusty/issues)
 
