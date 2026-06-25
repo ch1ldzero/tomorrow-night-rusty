@@ -80,3 +80,7 @@
 - Add custom badge with statistics to README.md
 - Improve links in README.md
 
+# 3.0.0
+
+- Complete theme refactoring with modular color system, build pipeline, and extended language support
+

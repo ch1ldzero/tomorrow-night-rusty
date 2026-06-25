@@ -1,84 +1,69 @@
 {
-  "name": "tomorrow-night-rusty",
-  "displayName": "Tomorrow Night Rusty",
-  "publisher": "n3tw4lk3r",
-  "description": "A dark theme inspired by the color palette used in Rust documentation",
-  "version": "2.0.3",
-  "icon": "assets/images/icon.png",
-  "engines": {
-    "vscode": "^1.70.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "theme",
-    "dark",
-    "dark theme",
-    "vscode",
-    "visual studio code",
-    "syntax highlighting",
-    "semantic highlighting",
-    "rust",
-    "rust theme",
-    "rustdoc",
-    "rust documentation",
-    "tomorrow",
-    "tomorrow night",
-    "tomorrow theme",
-    "rusty.nvim",
-    "neovim",
-    "neovim theme",
-    "minimal",
-    "minimalist",
-    "clean",
-    "developer",
-    "c",
-    "cpp",
-    "c++",
-    "csharp",
-    "c#",
-    "go",
-    "javascript",
-    "typescript",
-    "python",
-    "json",
-    "coding",
-    "programming"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/n3tw4lk3r/tomorrow-night-rusty"
-  },
-  "bugs": {
-    "url": "https://github.com/n3tw4lk3r/tomorrow-night-rusty/issues"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Tomorrow Night Rusty",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Tomorrow Night Rusty.json"
-      }
+    "name": "tomorrow-night-rusty",
+    "displayName": "Tomorrow Night Rusty",
+    "publisher": "n3tw4lk3r",
+    "description": "A dark VS Code theme inspired by the Rust documentation color palette and rusty.nvim",
+    "version": "3.0.0",
+    "icon": "assets/images/icon.png",
+    "license": "MIT",
+
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+
+    "categories": [
+        "Themes"
     ],
-    "semanticTokenColors": {
-      "type": "#DE935F",
-      "class": "#DE935F",
-      "struct": "#DE935F",
-      "interface": "#DE935F",
-      "enum": "#DE935F",
-      "typeParameter": "#F0C674",
-      "function": "#85B7B1",
-      "method": "#85B7B1",
-      "variable": "#C5C8C6",
-      "parameter": "#81A2BE",
-      "property": "#DE935F",
-      "enumMember": "#DE935F",
-      "keyword": "#B294BB",
-      "string": "#B5BD68",
-      "number": "#DE935F",
-      "boolean": "#DE935F"
+
+    "keywords": [
+        "theme",
+        "dark theme",
+        "vscode theme",
+        "syntax highlighting",
+        "semantic highlighting",
+        "rust",
+        "rust theme",
+        "minimal",
+        "cpp",
+        "c",
+        "go",
+        "python",
+        "typescript"
+    ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ch1ldzero/tomorrow-night-rusty"
+    },
+
+    "homepage": "https://github.com/ch1ldzero/tomorrow-night-rusty",
+
+    "bugs": {
+        "url": "https://github.com/ch1ldzero/tomorrow-night-rusty/issues"
+    },
+
+    "qna": "https://github.com/ch1ldzero/tomorrow-night-rusty/issues",
+
+    "galleryBanner": {
+        "color": "#17191b",
+        "theme": "dark"
+    },
+
+    "extensionKind": ["ui"],
+
+    "scripts": {
+        "build": "node scripts/build.js",
+        "prepublish": "npm run build"
+    },
+
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tomorrow Night Rusty",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tomorrow-night-rusty.json"
+            }
+        ]
     }
-  }
 }
 
