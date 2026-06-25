@@ -56,7 +56,7 @@ Search: **Tomorrow Night Rusty**
 
 ### Manual installation
 
-Download `.vsix` file from the latest release [here](https://github.com/n3tw4lk3r/tomorrow-night-rusty/releases)
+Download `.vsix` file from the latest release [here](https://github.com/ch1ldzero/tomorrow-night-rusty/releases)
 
 Then:
 1. Open the **Extensions** sidebar in VS Code: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>X</kbd>
@@ -85,5 +85,5 @@ This project is not affiliated with the Rust project or the rusty.nvim theme.
 
 ## Feedback
 
-Bug reports, suggestions, and pull requests are welcome: [issue tracker](https://github.com/n3tw4lk3r/tomorrow-night-rusty/issues)
+Bug reports, suggestions, and pull requests are welcome: [issue tracker](https://github.com/ch1ldzero/tomorrow-night-rusty/issues)
 
