@@ -62,25 +62,25 @@
 
 - Complete recalibration of theme colors: exact match of rusty.nvim, better UI consistency. Background colors were intentionally made darker to compensate for VS Code's internal brightening.
 
-# 2.0.1
+## 2.0.1
 
 - Replace theme screenshots: shorter code samples
 - Change repository name to tomorrow-night-rusty
 - Improve keywords in package.json
 - Rewrite README.md
 
-# 2.0.2
+## 2.0.2
 
 - Change order of sections in README.md 
 - Hide screenshots under spoiler
 - Fix git diff display in gutter
 
-# 2.0.3
+## 2.0.3
 
 - Add custom badge with statistics to README.md
 - Improve links in README.md
 
-# 3.0.0
+## 3.0.0
 
 - Complete theme refactoring with modular color system, build pipeline, and extended language support
 
